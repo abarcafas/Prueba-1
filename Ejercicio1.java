@@ -5,6 +5,7 @@ public class Ejercicio1{
         System.out.println("Ingrese un numerillo: ");
         int num = input.nextInt();
         if (num%2==0){
+            // estoy dentro 
             System.out.println("Es par ");
         }else{
             System.out.println("Impar");
